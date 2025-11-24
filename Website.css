@@ -1,0 +1,39 @@
+p{background-color: rgb(232, 239, 231);}
+p{
+    
+    color: rgb(42, 50, 165);
+    font-size: 1.8em;
+}
+.redPara {
+    color:red ;
+    background-color: chartreuse;}
+
+.centerh1 {
+    text-align: center;
+  }
+.centerp {
+    text-align: center;
+  }
+
+
+
+  .centerh2 {
+    text-align: center;
+   font-size: 40px;
+  }
+
+
+
+
+  div {
+  display: flex;
+  justify-content: center;
+}
+
+.div.container {
+  text-align: center;
+}
+
+li {
+  font-size: 30px;
+}
